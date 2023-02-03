@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "392997766984",
+    "firebase_url": "https://eyescare-7572f-default-rtdb.firebaseio.com",
+    "project_id": "eyescare-7572f",
+    "storage_bucket": "eyescare-7572f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392997766984:android:b15bbf00fd3c7dba8e157d",
+        "android_client_info": {
+          "package_name": "com.example.eyescaremobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392997766984-3amj89bb06art14rahk4eisj9iv3j75k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVrk-VDGMJeYdxCDj5QwEAJ6zVs9WhkwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392997766984-3amj89bb06art14rahk4eisj9iv3j75k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392997766984:android:76f03d1f308c369e8e157d",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392997766984-3amj89bb06art14rahk4eisj9iv3j75k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVrk-VDGMJeYdxCDj5QwEAJ6zVs9WhkwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392997766984-3amj89bb06art14rahk4eisj9iv3j75k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
